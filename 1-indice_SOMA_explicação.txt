@@ -1,0 +1,5 @@
+o programa vai definir INDICE como 13 SOMA como 0 e K com 0.
+o while va criar um loop onde vai adicionar os valores de K na variavel SOMA
+enquanto K for menor quue 13.
+ ou seja, ela vai somando os numeros de 1 a 13 excluindo o 13.
+ o resultado será 78.
